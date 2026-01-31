@@ -1,2 +1,2 @@
 # DSA-using-Python
-DSA using Python
+For Univeristy submission purpose
